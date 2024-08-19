@@ -5,7 +5,6 @@ from datetime import datetime
 import logging
 import uuid
 import hashlib
-
 app = Flask(__name__)
 app.secret_key = 'Sarvesh@123'
 
@@ -377,4 +376,4 @@ def finance_cash_management():
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5000,debug=True)
