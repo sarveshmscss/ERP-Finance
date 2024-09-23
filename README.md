@@ -59,8 +59,7 @@ This project leverages **Terraform** to automate the deployment of the applicati
 ### **Steps to Deploy:**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Infrastructure-as-Code-Using-Terraform.git
-   cd Infrastructure-as-Code-Using-Terraform
+   https://github.com/sarveshmscss/ERP-Finance.git
    ```
 2. Configure AWS credentials.
 3. Initialize Terraform and apply the infrastructure plan:
