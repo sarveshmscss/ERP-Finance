@@ -38,3 +38,11 @@ Organized: Terraform's declarative syntax ensures that infrastructure configurat
 💡 Conclusion
 Overall, this project demonstrates the power of combining modern web development technologies with the efficiency of cloud automation through Terraform. It is an ideal solution for businesses seeking to manage their financial operations in the cloud. By streamlining the deployment process, maintaining infrastructure consistency, and allowing for rapid scaling, this project is well-suited for agile ERP environments.
 
+🏆 Credits
+This project was developed by Sarvesh K, PSG College of Arts & Science, as part of a major project for the Master of Science in Software Systems.
+
+📞 Contact
+For more information or queries, feel free to reach out:
+
+Email: sarveshmscss@gmail.com
+
